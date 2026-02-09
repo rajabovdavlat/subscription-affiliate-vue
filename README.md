@@ -1,5 +1,27 @@
-# Vue 3 + Vite
+# Affiliate Program Landing Page
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Modern single-page website for promoting an affiliate program.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Built with **Vue 3 + Vite** as a clean, fast and responsive frontend solution.
+
+![Preview](https://via.placeholder.com/1280x720/111111/ffffff?text=Affiliate+Program+Preview)  
+*(replace with real screenshot later)*
+
+## ✨ Features
+
+- Responsive design (mobile-first)
+- Modern dark theme
+- Hero section with strong CTA
+- Benefits / Who can join section
+- Step-by-step "How it works" block with cards
+- Clean and maintainable component structure
+- No external UI libraries – pure CSS + Vue
+
+## 🛠️ Tech Stack
+
+- **Vue 3** (Composition API + `<script setup>`)
+- **Vite** – lightning fast dev server & build tool
+- **HTML5 + CSS3** (scoped styles)
+- **No backend / No JavaScript logic** – pure frontend showcase
+
+## 📂 Project Structure
