@@ -39,7 +39,7 @@
   font-size: 1rem;
   line-height: 1.5rem;
   color: #ffffff;
-  padding-bottom: 2.625rem;
+  margin-bottom: 2.625rem;
 }
 
 .hero__title {
@@ -48,7 +48,7 @@
   line-height: 3.25rem;
   letter-spacing: -1px;
   color: #ffffff;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .hero__desc {
@@ -59,7 +59,7 @@
   line-height: 1.6238rem;
   color: #ffffff;
   letter-spacing: 0.0125rem;
-  padding-bottom: 1.6875rem;
+  margin-bottom: 1.6875rem;
 }
 
 .hero__btn {
