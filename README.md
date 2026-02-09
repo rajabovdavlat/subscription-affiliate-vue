@@ -3,9 +3,9 @@
 Modern single-page website for promoting an affiliate program.
 
 Built with **Vue 3 + Vite** as a clean, fast and responsive frontend solution.
+## Live Demo
 
-![Preview](https://via.placeholder.com/1280x720/111111/ffffff?text=Affiliate+Program+Preview)  
-*(replace with real screenshot later)*
+👉 [https://subcription-affiliate-vue.vercel.app/](https://subcription-affiliate-vue.vercel.app/)
 
 ## ✨ Features
 
