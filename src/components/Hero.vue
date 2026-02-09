@@ -16,7 +16,7 @@
           <button class="hero__btn">Start earning</button>
         </div>
         <div>
-          <img src="../assets/img/heroimg.png" alt="hero-img" />
+          <img src="../assets/img/png/heroimg.png" alt="hero-img" />
         </div>
       </div>
     </div>
